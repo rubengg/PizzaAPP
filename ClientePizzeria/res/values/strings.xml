@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClientePizzeria - Rubén Gallegos González</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <color name="verdecito">#58fa58</color>
+    <color name="rojo">#f00</color>
+    <color name="vino">#610b21</color>
+
+</resources>
