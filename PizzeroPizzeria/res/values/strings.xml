@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PizzeroPizzeria - Rubén Gallegos González</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <color name="amarillo">#ffff00</color>
+    <color name="rojo">#ff0000</color>
+    <color name="blanco">#fff</color>
+    <color name="azulito">#81bef7</color>
+
+</resources>
